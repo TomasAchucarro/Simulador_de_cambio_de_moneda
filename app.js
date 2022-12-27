@@ -103,4 +103,4 @@ const Inicio = () => {
 
 do {
   menuInicio = Inicio();
-} while (menuInicio !== 3);
+} while (menuInicio !== 3)
